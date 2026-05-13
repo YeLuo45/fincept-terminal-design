@@ -69,12 +69,14 @@ Node Editor（节点编辑器）是 Fincept Terminal 中的可视化量化工作
 - 自定义节点开发
 - 第三方库支持
 
-## 截图
+## 界面预览
 
-![Node Editor](../images/NodeEditor.png)
+Node Editor 提供直观的可视化界面，支持节点拖拽、数据流连接、实时执行预览。
+
+![Node Editor](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/NodeEditor.png)
 
 ## 相关资源
 
 - [项目主页](https://github.com/Fincept-Corporation/FinceptTerminal)
 - [下载地址](https://github.com/Fincept-Corporation/FinceptTerminal/releases)
-- [AI Quant Lab 文档](./ai-quant-lab.md)
+- [QuantLib 量化模块](./quantlib.md)
